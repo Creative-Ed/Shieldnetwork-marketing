@@ -9,5 +9,7 @@ PLAYLIST:
 https://www.youtube.com/playlist?list=PLOGKqtkFI0l27iB_bpNKgvHzypHGWS0bT
 
 SHIELD: https://www.youtube.com/watch?v=aIIAiLnCtII&list=PLOGKqtkFI0l27iB_bpNKgvHzypHGWS0bT&index=1&t=3s
+
 PERPETUAL OPTIONS: https://www.youtube.com/watch?v=QQzO_lAX6es&list=PLOGKqtkFI0l27iB_bpNKgvHzypHGWS0bT&index=2
+
 INTERFACE: https://www.youtube.com/watch?v=fAr2Xjo5R1o&list=PLOGKqtkFI0l27iB_bpNKgvHzypHGWS0bT&index=3
